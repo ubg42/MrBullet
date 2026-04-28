@@ -7140,11 +7140,7 @@ var _flgAdsGd = true;
 		}
 		else
 		{
-			if (window.location.search.indexOf("continuous") > -1)
-				window.location.reload(true);
-			else
-				window.location = window.location + "?continuous";
-		}
+
 	};
 	Runtime.prototype.handleSaveLoad = function ()
 	{
