@@ -7141,7 +7141,7 @@ var _flgAdsGd = true;
 		else
 		{
 
-	};
+
 	Runtime.prototype.handleSaveLoad = function ()
 	{
 		var self = this;
